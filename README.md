@@ -71,11 +71,4 @@ python main.py --wandb True
 ```
 
 
-## Results
-
-#### 1) Facades
-
-From Facades to Map            |  From Map to Facades
-:-------------------------:|:-------------------------:
-![alt text](img/spa-f-m.png)  |  ![alt text](img/spa-m-f.png)
 
